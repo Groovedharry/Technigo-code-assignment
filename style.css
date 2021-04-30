@@ -1,0 +1,43 @@
+
+
+body {
+  text-align:center;
+  background:linear-gradient(to right,rgba(201, 126, 27, 0.63) 50%,rgb(241, 236, 223) 50%)
+}
+div {
+  width:20%;
+  display:inline-block;
+  border:hidden;
+}
+.left {
+  font-family: fantasy;
+  font-size: 20px;
+  font-style: oblique;
+  margin-top: 2%;
+  
+
+
+}
+
+.right {
+  font-family: fantasy;
+  font-size: 30px;
+  font-style: italic;
+  font-weight: 500;
+
+  
+}
+
+h4{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  
+}
+
+.links{
+ Display:flex;
+ padding-top: 100px;
+ padding-left:760px;
+ align-content: center;
+}
+
+
